@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Interface_USB)(type Legacy)(uri ${KIPRJMOD}/Interface_USB.lib)(options "")(descr ""))
+  (lib (name USBmicro-no-id)(type Legacy)(uri ${KIPRJMOD}/USBmicro-no-id.lib)(options "")(descr ""))
+)
